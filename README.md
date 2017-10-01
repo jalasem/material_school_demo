@@ -1,4 +1,4 @@
-# Materializecss Starter
+# Material School Demo
 
 A Simple School Website design with the principles of material design. Inspired by Ron Evgeniy design on [uplabs.com](https://www.uplabs.com/posts/slider-for-language-school).
 
